@@ -1,0 +1,14 @@
+[
+  {
+    "employee_name": "Budi",
+    "jabatan": "Manager",
+    "tgl_kerja": "2020-01-01",
+    "gaji": 7000000
+  },
+  {
+    "employee_name": "Siti",
+    "jabatan": "Admin",
+    "tgl_kerja": "2021-05-10",
+    "gaji": 5000000
+  }
+]
