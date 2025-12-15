@@ -1,14 +1,1 @@
-[
-  {
-    "employee_name": "Budi",
-    "jabatan": "Manager",
-    "tgl_kerja": "2020-01-01",
-    "gaji": 7000000
-  },
-  {
-    "employee_name": "Siti",
-    "jabatan": "Admin",
-    "tgl_kerja": "2021-05-10",
-    "gaji": 5000000
-  }
-]
+[{"employee_id":"1","employee_name":"Mie Gacoan","level":"5","harga":"10000"},{"employee_id":"2","employee_name":"Mie Atuh","level":"2","harga":"8000"},{"employee_id":"3","employee_name":"Mie Jebew","level":"8","harga":"15000"},{"employee_id":"4","employee_name":"MIe Bajak","level":"3","harga":"12000"}]
